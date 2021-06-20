@@ -1,0 +1,211 @@
+C:\Users\ROG ZEPHYRUS\Desktop\PTTK\Manager\Manager\bin\Debug\Manager.exe.config
+C:\Users\Admin\Desktop\DoAn\Manager\Manager\bin\Debug\Manager.exe.config
+C:\Users\Admin\Desktop\DoAn\Manager\Manager\bin\Debug\Manager.exe
+C:\Users\Admin\Desktop\DoAn\Manager\Manager\bin\Debug\Manager.pdb
+C:\Users\Admin\Desktop\DoAn\Manager\Manager\obj\Debug\Manager.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\DoAn\Manager\Manager\obj\Debug\Manager.Form1.resources
+C:\Users\Admin\Desktop\DoAn\Manager\Manager\obj\Debug\Manager.Properties.Resources.resources
+C:\Users\Admin\Desktop\DoAn\Manager\Manager\obj\Debug\Manager.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\DoAn\Manager\Manager\obj\Debug\Manager.exe
+C:\Users\Admin\Desktop\DoAn\Manager\Manager\obj\Debug\Manager.pdb
+C:\Users\Cong Tan\OneDrive\Desktop\DoAn\Manager\Manager\bin\Debug\Manager.exe.config
+C:\Users\Cong Tan\OneDrive\Desktop\DoAn\Manager\Manager\obj\Debug\Manager.exe
+C:\Users\Cong Tan\OneDrive\Desktop\DoAn\Manager\Manager\obj\Debug\Manager.pdb
+C:\Users\Cong Tan\OneDrive\Desktop\DoAn\Manager\Manager\bin\Debug\Manager.exe
+C:\Users\Cong Tan\OneDrive\Desktop\DoAn\Manager\Manager\bin\Debug\Manager.pdb
+C:\Users\Cong Tan\OneDrive\Desktop\DoAn\Manager\Manager\obj\Debug\Manager.csprojResolveAssemblyReference.cache
+C:\Users\Cong Tan\OneDrive\Desktop\DoAn\Manager\Manager\obj\Debug\Manager.Form1.resources
+C:\Users\Cong Tan\OneDrive\Desktop\DoAn\Manager\Manager\obj\Debug\Manager.Properties.Resources.resources
+C:\Users\Cong Tan\OneDrive\Desktop\DoAn\Manager\Manager\obj\Debug\Manager.csproj.GenerateResource.Cache
+C:\Users\Cong Tan\OneDrive\Desktop\DoAn\Manager\Manager\obj\Debug\Manager.frmAdmin.resources
+C:\Users\Cong Tan\OneDrive\Desktop\DoAn\Manager\Manager\obj\Debug\Manager.UCKhachHang.resources
+C:\Users\Cong Tan\OneDrive\Desktop\DoAn\Manager\Manager\obj\Debug\Manager.UCNhanVien.resources
+C:\Users\Admin\Downloads\DoAn\Manager\Manager\bin\Debug\Manager.exe.config
+C:\Users\Admin\Downloads\DoAn\Manager\Manager\obj\Debug\Manager.exe
+C:\Users\Admin\Downloads\DoAn\Manager\Manager\obj\Debug\Manager.pdb
+C:\Users\Admin\Downloads\DoAn\Manager\Manager\bin\Debug\Manager.exe
+C:\Users\Admin\Downloads\DoAn\Manager\Manager\bin\Debug\Manager.pdb
+C:\Users\Admin\Downloads\DoAn\Manager\Manager\obj\Debug\Manager.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Downloads\DoAn\Manager\Manager\obj\Debug\Manager.Form1.resources
+C:\Users\Admin\Downloads\DoAn\Manager\Manager\obj\Debug\Manager.frmAdmin.resources
+C:\Users\Admin\Downloads\DoAn\Manager\Manager\obj\Debug\Manager.Properties.Resources.resources
+C:\Users\Admin\Downloads\DoAn\Manager\Manager\obj\Debug\Manager.UCKhachHang.resources
+C:\Users\Admin\Downloads\DoAn\Manager\Manager\obj\Debug\Manager.UCNhanVien.resources
+C:\Users\Admin\Downloads\DoAn\Manager\Manager\obj\Debug\Manager.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\DoAn\Manager\Manager\obj\Debug\Manager.frmAdmin.resources
+C:\Users\Admin\Desktop\DoAn\Manager\Manager\obj\Debug\Manager.UCKhachHang.resources
+C:\Users\Admin\Desktop\DoAn\Manager\Manager\obj\Debug\Manager.UCNhanVien.resources
+C:\Users\Admin\Desktop\DoAn\Manager\Manager\obj\Debug\Manager.frmDangNhap.resources
+C:\Users\Cong Tan\OneDrive\Desktop\DoAn\Manager\Manager\obj\Debug\Manager.frmDangNhap.resources
+C:\Users\nguye\OneDrive\Desktop\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\Manager.exe.config
+C:\Users\nguye\OneDrive\Desktop\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.exe
+C:\Users\nguye\OneDrive\Desktop\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.pdb
+C:\Users\nguye\OneDrive\Desktop\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\Manager.exe
+C:\Users\nguye\OneDrive\Desktop\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\Manager.pdb
+C:\Users\nguye\OneDrive\Desktop\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\mscorlib.dll
+C:\Users\nguye\OneDrive\Desktop\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\normidna.nlp
+C:\Users\nguye\OneDrive\Desktop\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\normnfc.nlp
+C:\Users\nguye\OneDrive\Desktop\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\normnfd.nlp
+C:\Users\nguye\OneDrive\Desktop\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\normnfkc.nlp
+C:\Users\nguye\OneDrive\Desktop\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\normnfkd.nlp
+C:\Users\nguye\OneDrive\Desktop\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.csprojResolveAssemblyReference.cache
+C:\Users\nguye\OneDrive\Desktop\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.Form1.resources
+C:\Users\nguye\OneDrive\Desktop\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.frmAdmin.resources
+C:\Users\nguye\OneDrive\Desktop\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.frmDangNhap.resources
+C:\Users\nguye\OneDrive\Desktop\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.frmNhapHang.resources
+C:\Users\nguye\OneDrive\Desktop\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.Properties.Resources.resources
+C:\Users\nguye\OneDrive\Desktop\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.UCKhachHang.resources
+C:\Users\nguye\OneDrive\Desktop\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.UCNhanVien.resources
+C:\Users\nguye\OneDrive\Desktop\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\Manager.exe.config
+C:\Users\Admin\Desktop\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.exe
+C:\Users\Admin\Desktop\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\Manager.exe
+C:\Users\Admin\Desktop\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\Manager.pdb
+C:\Users\Admin\Desktop\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.Form1.resources
+C:\Users\Admin\Desktop\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.frmAdmin.resources
+C:\Users\Admin\Desktop\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.frmDangNhap.resources
+C:\Users\Admin\Desktop\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.frmNhapHang.resources
+C:\Users\Admin\Desktop\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.Properties.Resources.resources
+C:\Users\Admin\Desktop\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.UCKhachHang.resources
+C:\Users\Admin\Desktop\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.UCNhanVien.resources
+C:\Users\Admin\Desktop\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.pdb
+C:\Users\Cong Tan\OneDrive\Desktop\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\Manager.exe.config
+C:\Users\Cong Tan\OneDrive\Desktop\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.exe
+C:\Users\Cong Tan\OneDrive\Desktop\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.pdb
+C:\Users\Cong Tan\OneDrive\Desktop\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.csprojResolveAssemblyReference.cache
+C:\Users\Cong Tan\OneDrive\Desktop\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.Form1.resources
+C:\Users\Cong Tan\OneDrive\Desktop\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.frmAdmin.resources
+C:\Users\Cong Tan\OneDrive\Desktop\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.frmDangNhap.resources
+C:\Users\Cong Tan\OneDrive\Desktop\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.frmNhapHang.resources
+C:\Users\Cong Tan\OneDrive\Desktop\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.Properties.Resources.resources
+C:\Users\Cong Tan\OneDrive\Desktop\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.UCKhachHang.resources
+C:\Users\Cong Tan\OneDrive\Desktop\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.UCNhanVien.resources
+C:\Users\Cong Tan\OneDrive\Desktop\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.csproj.GenerateResource.Cache
+C:\Users\Cong Tan\OneDrive\Desktop\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\Manager.exe
+C:\Users\Cong Tan\OneDrive\Desktop\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\Manager.pdb
+C:\Users\Cong Tan\OneDrive\Desktop\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.frmHoaDon.resources
+C:\Users\Cong Tan\OneDrive\Desktop\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.Forminhoadon.resources
+C:\Users\Cong Tan\OneDrive\Desktop\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\RdlCompile.cache
+C:\Users\Cong Tan\OneDrive\Desktop\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\RdlCompile.compiled
+C:\Users\nguye\OneDrive\Desktop\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\Manager.exe.config
+C:\Users\nguye\OneDrive\Desktop\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.exe
+C:\Users\nguye\OneDrive\Desktop\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.pdb
+C:\Users\nguye\OneDrive\Desktop\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\Manager.exe
+C:\Users\nguye\OneDrive\Desktop\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\Manager.pdb
+C:\Users\nguye\OneDrive\Desktop\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.csprojResolveAssemblyReference.cache
+C:\Users\nguye\OneDrive\Desktop\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.Form1.resources
+C:\Users\nguye\OneDrive\Desktop\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.Forminhoadon.resources
+C:\Users\nguye\OneDrive\Desktop\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.frmAdmin.resources
+C:\Users\nguye\OneDrive\Desktop\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.frmDangNhap.resources
+C:\Users\nguye\OneDrive\Desktop\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.frmHoaDon.resources
+C:\Users\nguye\OneDrive\Desktop\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.frmNhapHang.resources
+C:\Users\nguye\OneDrive\Desktop\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.Properties.Resources.resources
+C:\Users\nguye\OneDrive\Desktop\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.UCKhachHang.resources
+C:\Users\nguye\OneDrive\Desktop\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.UCNhanVien.resources
+C:\Users\nguye\OneDrive\Desktop\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.csproj.GenerateResource.Cache
+C:\Users\nguye\OneDrive\Desktop\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\RdlCompile.cache
+C:\Users\nguye\OneDrive\Desktop\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\RdlCompile.compiled
+C:\Users\Cong Tan\OneDrive\Desktop\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\Manager.exe.config
+C:\Users\Cong Tan\OneDrive\Desktop\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.exe
+C:\Users\Cong Tan\OneDrive\Desktop\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.pdb
+C:\Users\Cong Tan\OneDrive\Desktop\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\Manager.exe
+C:\Users\Cong Tan\OneDrive\Desktop\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\Manager.pdb
+C:\Users\Cong Tan\OneDrive\Desktop\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.csprojResolveAssemblyReference.cache
+C:\Users\Cong Tan\OneDrive\Desktop\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.Form1.resources
+C:\Users\Cong Tan\OneDrive\Desktop\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.frmAdmin.resources
+C:\Users\Cong Tan\OneDrive\Desktop\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.frmDangNhap.resources
+C:\Users\Cong Tan\OneDrive\Desktop\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.frmHoaDon.resources
+C:\Users\Cong Tan\OneDrive\Desktop\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.frmNhapHang.resources
+C:\Users\Cong Tan\OneDrive\Desktop\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.Properties.Resources.resources
+C:\Users\Cong Tan\OneDrive\Desktop\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.UCKhachHang.resources
+C:\Users\Cong Tan\OneDrive\Desktop\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.UCNhanVien.resources
+C:\Users\Cong Tan\OneDrive\Desktop\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.csproj.GenerateResource.Cache
+C:\Users\Cong Tan\OneDrive\Desktop\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\Dapper.dll
+C:\Users\Cong Tan\OneDrive\Desktop\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\Dapper.xml
+C:\Users\Cong Tan\OneDrive\Desktop\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.frmHangHoa.resources
+C:\Users\Admin\Desktop\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\Manager.exe.config
+C:\Users\Admin\Desktop\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.exe
+C:\Users\Admin\Desktop\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\Manager.exe
+C:\Users\Admin\Desktop\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\Manager.pdb
+C:\Users\Admin\Desktop\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\Dapper.dll
+C:\Users\Admin\Desktop\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\Dapper.xml
+C:\Users\Admin\Desktop\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.Form1.resources
+C:\Users\Admin\Desktop\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.frmAdmin.resources
+C:\Users\Admin\Desktop\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.frmDangNhap.resources
+C:\Users\Admin\Desktop\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.frmHoaDon.resources
+C:\Users\Admin\Desktop\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.frmHangHoa.resources
+C:\Users\Admin\Desktop\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.frmNhapHang.resources
+C:\Users\Admin\Desktop\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.Properties.Resources.resources
+C:\Users\Admin\Desktop\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.UCKhachHang.resources
+C:\Users\Admin\Desktop\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.UCNhanVien.resources
+C:\Users\Admin\Desktop\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.pdb
+C:\Users\HP\Downloads\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\Manager.exe.config
+C:\Users\HP\Downloads\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.exe
+C:\Users\HP\Downloads\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.pdb
+C:\Users\HP\Downloads\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\Baocaohd.rdlc
+C:\Users\HP\Downloads\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\Manager.exe
+C:\Users\HP\Downloads\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\Manager.pdb
+C:\Users\HP\Downloads\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\Dapper.dll
+C:\Users\HP\Downloads\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\Dapper.xml
+C:\Users\HP\Downloads\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.csprojResolveAssemblyReference.cache
+C:\Users\HP\Downloads\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.Form1.resources
+C:\Users\HP\Downloads\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.FormRP.resources
+C:\Users\HP\Downloads\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.frmAdmin.resources
+C:\Users\HP\Downloads\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.frmDangNhap.resources
+C:\Users\HP\Downloads\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.frmHoaDon.resources
+C:\Users\HP\Downloads\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.frmHangHoa.resources
+C:\Users\HP\Downloads\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.frmNhapHang.resources
+C:\Users\HP\Downloads\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.Properties.Resources.resources
+C:\Users\HP\Downloads\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.UCKhachHang.resources
+C:\Users\HP\Downloads\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.UCNhanVien.resources
+C:\Users\HP\Downloads\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.csproj.GenerateResource.Cache
+C:\Users\HP\Downloads\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\RdlCompile.cache
+C:\Users\HP\Downloads\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\RdlCompile.compiled
+C:\DoAnaaaaaa (1) (2)\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\Manager.exe.config
+C:\DoAnaaaaaa (1) (2)\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.exe
+C:\DoAnaaaaaa (1) (2)\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.pdb
+C:\DoAnaaaaaa (1) (2)\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\Baocaohd.rdlc
+C:\DoAnaaaaaa (1) (2)\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\Manager.exe
+C:\DoAnaaaaaa (1) (2)\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\Manager.pdb
+C:\DoAnaaaaaa (1) (2)\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\Dapper.dll
+C:\DoAnaaaaaa (1) (2)\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\Dapper.xml
+C:\DoAnaaaaaa (1) (2)\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.csprojResolveAssemblyReference.cache
+C:\DoAnaaaaaa (1) (2)\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.Form1.resources
+C:\DoAnaaaaaa (1) (2)\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.FormRP.resources
+C:\DoAnaaaaaa (1) (2)\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.frmAdmin.resources
+C:\DoAnaaaaaa (1) (2)\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.frmDangNhap.resources
+C:\DoAnaaaaaa (1) (2)\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.frmHoaDon.resources
+C:\DoAnaaaaaa (1) (2)\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.frmHangHoa.resources
+C:\DoAnaaaaaa (1) (2)\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.frmNhapHang.resources
+C:\DoAnaaaaaa (1) (2)\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.Properties.Resources.resources
+C:\DoAnaaaaaa (1) (2)\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.UCKhachHang.resources
+C:\DoAnaaaaaa (1) (2)\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.UCNhanVien.resources
+C:\DoAnaaaaaa (1) (2)\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.csproj.GenerateResource.Cache
+C:\DoAnaaaaaa (1) (2)\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\RdlCompile.cache
+C:\DoAnaaaaaa (1) (2)\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\RdlCompile.compiled
+C:\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\Manager.exe.config
+C:\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.exe
+C:\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.pdb
+C:\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\Baocaohd.rdlc
+C:\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\Manager.exe
+C:\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\Manager.pdb
+C:\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\Dapper.dll
+C:\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\bin\Debug\Dapper.xml
+C:\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.csprojResolveAssemblyReference.cache
+C:\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.Form1.resources
+C:\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.FormRP.resources
+C:\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.frmAdmin.resources
+C:\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.frmDangNhap.resources
+C:\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.frmHoaDon.resources
+C:\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.frmHangHoa.resources
+C:\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.frmNhapHang.resources
+C:\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.Properties.Resources.resources
+C:\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.UCKhachHang.resources
+C:\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.UCNhanVien.resources
+C:\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\Manager.csproj.GenerateResource.Cache
+C:\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\RdlCompile.cache
+C:\DAMH_Nhom17_PTTK_Thu3_tiet13_PhanMem\DoAnaaaaaa (1)\DoAnaaaaaa\DoAn\Manager\Manager\obj\Debug\RdlCompile.compiled
